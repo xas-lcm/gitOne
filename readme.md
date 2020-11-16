@@ -1,2 +1,2 @@
-＃每个组员使用名字全拼命名分支。
-＃按时完成今天作业。
+＃xiaoanshuai update readme
+＃xiaoanshuai 按时完成今天作业。
